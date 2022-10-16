@@ -1,0 +1,16 @@
+title: Brankas API Reference
+
+language_tabs:
+   - bash
+
+toc_footers:
+   - <a href=https://www.npmjs.com/package/node-slate>Documentation powered by Brankas</a>
+
+includes:
+   - main
+   - errors
+   - _success
+
+search: true
+
+highlight_theme: monokai
